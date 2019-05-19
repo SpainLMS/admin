@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Correo Privado </title>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>Correo Privado</h2>
+
+<table>
+  <tr>
+    <th>Oferta: Colchones al 70% de descuento</th>
+  </tr>
+  <tr>
+    <td><a href="https://spainlms.github.io/admin/mail.29791485E/mail1.html">Estadísticas del sistema</a></td>
+  </tr>
+</table>
+
+</body>
+</html>
